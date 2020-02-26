@@ -29,6 +29,5 @@
         "version": "detect"
       }
     }
-  },
-  "parser": "esprima"
+  }
 }
